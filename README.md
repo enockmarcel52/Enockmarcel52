@@ -1,28 +1,46 @@
-# Hi there, I'm Enock Marcel 👋
+# 👋 Hello, I'm Enock Marcel! 
+### ⚡ Software Developer | Mobile Specialist | Backend Enthusiast
 
-I'm a Software Developer based in Nairobi, specializing in mobile and backend systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Robust+Android+Apps;Flutter+and+Kotlin+Expert;Backend+with+Java+%2B+Django;Based+in+Nairobi%2C+Kenya" alt="Typing SVG" />
+</p>
 
-- 📱 **Mobile:** Flutter (Dart), Java, and Kotlin.
-- 🌐 **Backend:** Python (Django) & Java.
-- 📍 **Location:** Nairobi, Kenya.
+---
 
-### My Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 📖 About Me
+- 🔭 I’m currently working on **High-performance Android Applications**.
+- 🌱 I’m currently learning **Advanced System Architecture and Cloud Integration**.
+- 👯 I’m looking to collaborate on **Open Source Flutter & Django projects**.
+- 💬 Ask me about **Dart, Java, or how to scale a Python backend**.
+- 📫 Reach me at: **enockmarcel52@gmail.com**
 
+---
 
-<!--
-**enockmarcel52/Enockmarcel52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
+| Category | Skills |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=enockmarcel52&show_icons=true&theme=tokyonight" alt="Enock's Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enockmarcel52&theme=tokyonight" alt="Enock's Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+<a href="mailto:enockmarcel52@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
