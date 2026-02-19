@@ -26,12 +26,21 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=enockmarcel52&show_icons=true&theme=tokyonight" alt="Enock's Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enockmarcel52&theme=tokyonight" alt="Enock's Streak" />
-</p>
+### 📊 Career Summary (Active Since 2025)
+| Metric | Status |
+| :--- | :--- |
+| 🔥 **Current Streak** | 34 Days |
+| 🚀 **Total Contributions (2025)** | 78 |
+| 🛠️ **Projects Completed** | 12+ |
+| ⚡ **Rank** | Gold Developer |
+
+---
+
+### 🗓️ Timeline
+- **Jan 2025:** Started Backend Architecture in Java & Python.
+- **June 2025:** Launched first Flutter Mobile App on Play Store.
+- **Dec 2025:** Reached 78 Contributions milestone for the year.
+- **Current (2026):** Scaling robust Android apps and exploring AI integration.
 
 ---
 
@@ -42,5 +51,5 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
